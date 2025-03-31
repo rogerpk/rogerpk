@@ -1,9 +1,9 @@
 ### Olá! eu sou o Roger Porton 😉
 
 [![Linkedin](www.linkedin.com/in/roger-porton-kuntze-80152230b)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/roger._.pk?igsh=NXgzNDZkNXRobGNv&utm_source=qr)
 
-![Gustavo GitHub stats]([https://github-readme-stats.vercel.app/api?username=gustavoabrahao&show_icons=true&theme=merko](https://www.instagram.com/roger._.pk?igsh=NXgzNDZkNXRobGNv&utm_source=qr))
+![Gustavo GitHub stats]([https://github-readme-stats.vercel.app/api?username=gustavoabrahao&show_icons=true&theme=merko]
 
 ## Tecnologias que uso no meu dia
 
